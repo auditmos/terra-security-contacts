@@ -8,6 +8,6 @@ Directory of security contacts for projects building on Terra blockchain.
 
 ## Projects
 
-| Name | Contact | More | Web | Twitter | Telegram
+| Name | Contact | More | GitHub | Twitter | 👓 |
 | ---  | --- | --- |--- |--- |--- |
-| Anchor Protocol | security@anchorprotocol.com | [security](https://docs.anchorprotocol.com/security) | [link](https://anchorprotocol.com/) | [anchor_protocol](https://twitter.com/anchor_protocol) | [anchor_official](https://t.me/anchor_official) |
+| Anchor Protocol | security@anchorprotocol.com | [security](https://docs.anchorprotocol.com/security) | [link](https://github.com/Anchor-Protocol) | [anchor_protocol](https://twitter.com/anchor_protocol) | [link](https://github.com/auditmos/terra-security-contacts)
