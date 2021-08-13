@@ -63,3 +63,9 @@ Directory of security contacts for projects building on Terra blockchain.
 | Astroport | | [security]() | [link](https://github.com/) | [](https://twitter.com/) | ⌛ [link](https://github.com/auditmos/)
 | White Whale | | [security]() | [link](https://github.com/) | [](https://twitter.com/) | ⌛ [link](https://github.com/auditmos/)
 | Digipharm | | [security]() | [link](https://github.com/) | [](https://twitter.com/) | ⌛ [link](https://github.com/auditmos/)
+
+### How to read above table
+
+* ✔️ - project covers this security aspect
+* ❌ - project at the time of doing our research not covered this security aspect
+* ⌛ - waiting for our research, audit and security recommendations
